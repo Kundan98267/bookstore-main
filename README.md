@@ -18,7 +18,7 @@ It allows admins to manage books, inventory, customers, and sales, while users c
 ---
 
 ## 📹 Demo Video
-**[Watch on YouTube](https://youtu.be/heT_wGhS7Gc?si=QCP2prsUSru0hpyT)**
+**[Watch on YouTube](https://youtu.be/tOwMI5blFoY)**
 
 ---
 
