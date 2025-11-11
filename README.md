@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bookstore
 
 Developed using HTML, CSS, JavaScript, and PHP technologies</br>
@@ -13,3 +14,6 @@ Features : </br>
 </br>
 Output :
 ![image](https://github.com/tanishahaha/bookstore/assets/123636127/058007f4-2a15-4e28-9125-201278497939)
+=======
+# bookstore-main
+>>>>>>> 3d5b983ab310e2cd71cc3b20c385a281039297fb
